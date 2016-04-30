@@ -17,9 +17,9 @@ BN.sum('3464565', '7891', '15436');
 # license
 MIT
 
-[npm-url]: https://npmjs.org/package/big-number
-[downloads-image]: http://img.shields.io/npm/dm/big-number.svg
-[npm-image]: http://img.shields.io/npm/v/big-number.svg
+[npm-url]: https://npmjs.org/package/simple-big-number
+[downloads-image]: http://img.shields.io/npm/dm/simple-big-number.svg
+[npm-image]: http://img.shields.io/npm/v/simple-big-number.svg
 [travis-url]: https://travis-ci.org/interview-algorithm/big-number
 [travis-image]: http://img.shields.io/travis/interview-algorithm/big-number.svg
 [david-dm-url]:https://david-dm.org/interview-algorithm/big-number
